@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Kuizon_Portfolio/static/css/main.c575c22a.css",
-    "main.js": "/Kuizon_Portfolio/static/js/main.d127c7da.js",
-    "static/media/header-profile3.jpg.jpg": "/Kuizon_Portfolio/static/media/header-profile3.jpg.de992ebef0fbee7d3db6.jpg",
-    "static/media/bookit-recep.png": "/Kuizon_Portfolio/static/media/bookit-recep.12448b2ef1ff2daeb30b.png",
-    "static/media/vendoor-pic.jpeg": "/Kuizon_Portfolio/static/media/vendoor-pic.6a7eddf8e74744c47c5a.jpeg",
-    "static/media/aboutme_pic.jpg": "/Kuizon_Portfolio/static/media/aboutme_pic.f4445a4662fac88728e8.jpg",
-    "static/media/chatapp-pic.jpg": "/Kuizon_Portfolio/static/media/chatapp-pic.60fae95f03a32159d5dd.jpg",
-    "static/media/calculator-pic.jpg": "/Kuizon_Portfolio/static/media/calculator-pic.66d266c1f16ccf667ba7.jpg",
-    "index.html": "/Kuizon_Portfolio/index.html",
-    "main.c575c22a.css.map": "/Kuizon_Portfolio/static/css/main.c575c22a.css.map",
-    "main.d127c7da.js.map": "/Kuizon_Portfolio/static/js/main.d127c7da.js.map"
+    "main.css": "/jKuizonPortfolio/static/css/main.c575c22a.css",
+    "main.js": "/jKuizonPortfolio/static/js/main.7e247052.js",
+    "static/media/header-profile3.jpg.jpg": "/jKuizonPortfolio/static/media/header-profile3.jpg.de992ebef0fbee7d3db6.jpg",
+    "static/media/bookit-recep.png": "/jKuizonPortfolio/static/media/bookit-recep.12448b2ef1ff2daeb30b.png",
+    "static/media/vendoor-pic.jpeg": "/jKuizonPortfolio/static/media/vendoor-pic.6a7eddf8e74744c47c5a.jpeg",
+    "static/media/aboutme_pic.jpg": "/jKuizonPortfolio/static/media/aboutme_pic.f4445a4662fac88728e8.jpg",
+    "static/media/chatapp-pic.jpg": "/jKuizonPortfolio/static/media/chatapp-pic.60fae95f03a32159d5dd.jpg",
+    "static/media/calculator-pic.jpg": "/jKuizonPortfolio/static/media/calculator-pic.66d266c1f16ccf667ba7.jpg",
+    "index.html": "/jKuizonPortfolio/index.html",
+    "main.c575c22a.css.map": "/jKuizonPortfolio/static/css/main.c575c22a.css.map",
+    "main.7e247052.js.map": "/jKuizonPortfolio/static/js/main.7e247052.js.map"
   },
   "entrypoints": [
     "static/css/main.c575c22a.css",
-    "static/js/main.d127c7da.js"
+    "static/js/main.7e247052.js"
   ]
 }
