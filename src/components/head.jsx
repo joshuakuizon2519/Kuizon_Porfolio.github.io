@@ -19,7 +19,7 @@ const head = () => {
                   loop={Infinity}
                   wrapper="b"
                   steps={[
-                    'Computer Science Student', 1000,
+                    'Computer Science Student', 1200,
                     'Programmer', 1000,
                     'Coffee Lover', 1000,
                     'Cook (Wannabe)',1000,
