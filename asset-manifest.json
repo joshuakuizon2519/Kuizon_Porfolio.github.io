@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/jkuizonportfolio/static/css/main.f6a011ef.css",
-    "main.js": "/jkuizonportfolio/static/js/main.2181d69f.js",
+    "main.css": "/jkuizonportfolio/static/css/main.e3584dd3.css",
+    "main.js": "/jkuizonportfolio/static/js/main.7baa0f09.js",
     "static/media/header-profile3.jpg.jpg": "/jkuizonportfolio/static/media/header-profile3.jpg.de992ebef0fbee7d3db6.jpg",
     "static/media/bookit-recep.png": "/jkuizonportfolio/static/media/bookit-recep.12448b2ef1ff2daeb30b.png",
     "static/media/vendoor-pic.jpeg": "/jkuizonportfolio/static/media/vendoor-pic.6a7eddf8e74744c47c5a.jpeg",
@@ -9,11 +9,11 @@
     "static/media/chatapp-pic.jpg": "/jkuizonportfolio/static/media/chatapp-pic.60fae95f03a32159d5dd.jpg",
     "static/media/calculator-pic.jpg": "/jkuizonportfolio/static/media/calculator-pic.66d266c1f16ccf667ba7.jpg",
     "index.html": "/jkuizonportfolio/index.html",
-    "main.f6a011ef.css.map": "/jkuizonportfolio/static/css/main.f6a011ef.css.map",
-    "main.2181d69f.js.map": "/jkuizonportfolio/static/js/main.2181d69f.js.map"
+    "main.e3584dd3.css.map": "/jkuizonportfolio/static/css/main.e3584dd3.css.map",
+    "main.7baa0f09.js.map": "/jkuizonportfolio/static/js/main.7baa0f09.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6a011ef.css",
-    "static/js/main.2181d69f.js"
+    "static/css/main.e3584dd3.css",
+    "static/js/main.7baa0f09.js"
   ]
 }
