@@ -1,0 +1,82 @@
+.box{
+    background-color: #00113a;
+    height: 630px;
+    width: 100%;
+    padding-top: 170px;
+}
+.flexhead{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.profilepic{
+    border-radius: 50%;
+    height: 250px;
+    box-shadow: #ccc 20px;
+    box-shadow: 0 4px 8px 0 #021b59, 0 6px 20px 0 #021b59;
+}
+
+.introduction{
+    height: 300px;
+    width: 350px;
+    color: white;
+    text-align: left;
+    font-size: 30px;
+    padding: 40px;
+    text-shadow: #111 20px;
+    text-shadow: 0 4px 8px 0 #021b59, 0 6px 20px 0 #021b59;
+}
+.introduction h2{
+    font-weight: 600;
+}
+.name{
+    line-height: 40%;
+}
+
+p{
+    font-size: 18px;
+}
+/**
+.position{
+    animation: move 1.1s  infinite ease-in-out;
+    width: 8px;
+    height: 33px;
+    border-radius: 5px;
+    background-color: white;
+    margin: 6px;
+    animation: move 1.1s  infinite ease-in-out;
+    
+}
+.position span{
+    background-color: white;
+    height: 8px;
+    width: 33px;
+    border-radius: 5px;
+    margin: 6px;
+}
+
+span:nth-child(1){
+    transform: rotate(-48deg);
+}
+span:nth-child(2){
+    transform: rotate(48deg);
+}**/
+
+.down-arrow{
+    width: 37px;
+    animation: move 1.1s  infinite ease-in-out;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    overflow: hidden;
+}
+@keyframes move{
+    0%{margin-top: 117px;}
+    50%{margin-top: 180px;}
+    100%{margin-top: 117px;}
+}
+

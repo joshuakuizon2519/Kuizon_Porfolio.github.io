@@ -1,0 +1,32 @@
+.about {
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    padding: 180px;
+}
+.about-left{
+    flex: 1;
+    font-size: large;
+}
+.about-left p{
+    flex: 1;
+    font-size: large;
+    text-align: justify;
+    text-indent: 30px;
+}
+
+.about-right{
+    flex: 1;
+    align-self: center;
+    margin-left: 200px;
+}
+
+.abt-pic{
+    background-color: gray;
+    border-radius: 10%;
+    height: 500px;
+    width: 400px;
+}
+.abt-pic p{
+    text-align: center;
+}
